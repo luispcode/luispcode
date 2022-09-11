@@ -7,7 +7,7 @@
  
 - 👀 I'm interested in data analysis, data engineering, backend programming and business intelligence.
  
-- 🌱 I'm currently learning Django and FasAPI along with other technologies and tools.
+- 🌱 I'm currently learning Django along with other technologies and tools.
  
 - 👯 I'm looking to collaborate on Python programming jobs.
  
