@@ -3,7 +3,7 @@
 <h4 align="left">I'm an industrial engineer and Python developer, I am passionate about technology and continuous improvement  ✅</h4> 
 <h4 align="left">•Critical thinking, decision-making & problem solving skills.</h4> 
  
-- 🔭 I'm currently working on Python projects.
+- 🔭 I'm currently working on data-related projects.
  
 - 👀 I'm interested in data analysis, data engineering, backend programming and business intelligence.
  
